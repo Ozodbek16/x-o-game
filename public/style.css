@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.square {
+  width: 25px;
+  height: 25px;
+}
